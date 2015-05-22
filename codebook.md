@@ -3,7 +3,7 @@ CODEBOOK.MD
 
 subject - Designates the subject to which the measurments refer to. Value between 1 and 30
 
-activity - Designates the activity performed by the subject.WALKING
+activity - Designates the activity performed by the subject. WALKING
 															WALKING_UPSTAIRS
 															WALKING_DOWNSTAIRS
 															SITTING
