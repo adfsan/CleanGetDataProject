@@ -17,3 +17,5 @@ This function applies the following steps:
 5 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity     and each subject.
 
 The resulting output of this function is a tidy dataset as described by the 5th step of the assignment and a .txt file with the same dataset. 
+
+Please check the code's comments for a better understanding of how it works.
